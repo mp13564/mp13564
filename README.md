@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mp13564
-- 👀 I’m interested in Workforce Management, Reporting, Excel, VBA, Automation, Power Bi
+- 👀 I’m interested in Workforce Management, Python, Reporting, Excel, Power Bi, VBA and Automation.
 - 🌱 I’m currently learning Python, Power Bi, Excel VBA macro to automate my repetitive reports
 - 💞️ I’m looking to collaborate on Excel and Python automation projects
 - 📫 How to reach me ...
