@@ -1,4 +1,4 @@
-# Hi there, I'm Mark! 👋
+# Howdy, I'm Mark! 👋
 
 **Business Analyst | WFM & Contact Center Operations Specialist | Computer Engineering Student**
 
